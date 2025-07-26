@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Arnau Blog'
+theme = 'github-style'
+
+[params]
+  author = "arnaudome"
+  description = "Hi! Welcome to my personal blog :D"
+  twitter = "arnaudome"
+  linkedin = "arnaudome"
+  instagram = "arnaudome"
+  email = "arnaudome@gmail.com"
+  url = "https://arnaudome.com"
+  keywords = "blog, google analytics"
+  lastmod = true
+  favicon = "/images/github.png"
+  avatar = "/images/ProfileArnauSQ.png"
+  headerIcon = "/images/ProfileArnauSQ.png"
+  location = "Igualada, Catalunya"
+  enableSearch = false
